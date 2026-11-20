@@ -61,5 +61,6 @@ parameters:
 # claims.md in input/pagecontent/) and matching menu entries as the IG grows.
 menu:
   Home: index.html
+  Referral submission: referral-submission.html
   Artifacts: artifacts.html
   Downloads: downloads.html
